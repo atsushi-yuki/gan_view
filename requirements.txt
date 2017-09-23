@@ -2,3 +2,4 @@ chainer==1.23.0
 Flask==0.12.2
 numpy==1.13.1
 Pillow==4.2.1
+gunicorn==19.7.1
